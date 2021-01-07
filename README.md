@@ -8,5 +8,5 @@ It demonstrates: Digital and Analogue inputs, Digital Pulse and Pulse Width Modu
 ![Unity Interface](/UI-screenshot.png)
 Fig 1. The UI interface in Unity
 
-[Arduino Wiring](/Arduino-wiring.png)
+![Arduino Wiring](/Arduino-wiring.png)
 Fig 2. The circuit for the Arduino
